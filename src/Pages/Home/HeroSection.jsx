@@ -3,18 +3,19 @@ export default function HeroSection() {
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content--box">
         <div className="hero--section--content">
-          <p className="section--title">Hola, soy Patricio Santibáñez</p>
+          <p className="section--title">Bienvenidos/as a mi Portafolio, soy:</p>
           <h1 className="hero--section--title">
-            <span className="hero--section--title--color">Full Stack</span>
+            <span className="hero--section--title--color">Patricio</span>
             {""}
             <br />
-            Developer
+            Santibáñez
           </h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            <br /> Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+            En este portafolio presentaré mi perfil profesional,
+            <br />
+            proyectos desarrollados, aplicaciones creadas y más...
           </p>
-          <button className="btn btn-primary">Button</button>
+          <button className="btn btn-primary">¡Vamos!</button>
         </div>
       </div>
       <div className="hero--section--img">
